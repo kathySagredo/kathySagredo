@@ -1,12 +1,12 @@
 <img alt="bannerLinkedIn" src="https://media.licdn.com/dms/image/v2/D4E16AQEc83cviMimgQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690304403162?e=1733961600&v=beta&t=cm7X3nTfmRSGRn04dEx7r76CxXLtqIjFf-scsfh-rMA" />
 
 <div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FFF7ED&background=000000&center=true&vCenter=true&width=1100&lines=Hello+world%2C+I'm+a+developer+%3C3" alt="Typing SVG" /></a></div>
-<p>I am a curious student who loves to learn new things, motivate people and work in teams...</p>
+<p> I'm a curious student who loves learning new things, motivating people, and working in teams...</p>
 
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathySagredo&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" />
-<p> For now, I'm reinforcing content by making explanatory repositories of some technologies... </p>
-<p> Me considero una persona honesta, la verdad no domino el ingles pero estoy estudiando cada día. Si quieres ver mi trabajo te invito a revisar algunos de mis pequeños proyectos educativos. </p>
+<p> For now, I'm reinforcing my knowledge by creating explanatory repositories on some technologies... </p>
+<p> Me considero una persona honesta. La verdad, no domino el inglés, pero estudio cada día. Si quieres ver mi trabajo, te invito a revisar algunos de mis pequeños proyectos educativos. </p>
 </div>
 <br>
 
