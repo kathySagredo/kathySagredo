@@ -31,11 +31,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<br>
+
 <div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FFF7ED&background=000000&center=true&vCenter=true&width=1100&lines=Goodbye+world%2C+Contact+me+%3C3" alt="Typing SVG" /></a></div>
 
 <p align="center">
-<a href= "https://www.linkedin.com/in/kathysagredojimenez/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://app.daily.dev/kats"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://www.linkedin.com/in/kathysagredojimenez/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href= "https://app.daily.dev/kats"><img src="https://img.shields.io/badge/dailydotdev-%23CE3DF3.svg?style=plastic&logo=dailydotdev&logoColor=violet"/></a>
 </p>
 
 
