@@ -1,4 +1,5 @@
-<img alt="bannerLinkedIn" src="https://media.licdn.com/dms/image/v2/D4E16AQEc83cviMimgQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690304403162?e=1733961600&v=beta&t=cm7X3nTfmRSGRn04dEx7r76CxXLtqIjFf-scsfh-rMA" />
+<img alt="bannerLinkedIn" src="https://media.licdn.com/dms/image/v2/D4E16AQEc83cviMimgQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690304403162?e=1740009600&v=beta&t=dky2d9uWICFayv8N_KDGH2tMAEnbH-Yi-nU7rx-f6ts" />
+
 
 <div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FFF7ED&background=000000&center=true&vCenter=true&width=1100&lines=Hello+world%2C+I'm+a+developer+%3C3" alt="Typing SVG" /></a></div>
 <p> I'm a curious student who loves learning new things, motivating people, and working in teams...</p>
