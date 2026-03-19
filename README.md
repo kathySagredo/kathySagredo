@@ -1,4 +1,4 @@
-<img alt="bannerLinkedIn" src="https://media.licdn.com/dms/image/v2/D4E16AQEc83cviMimgQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690304403162?e=1760572800&v=beta&t=abSFcbR3wXIpe8hLy_Wx18X70AWysaXOGdh71uNVHQ4" />
+<img alt="bannerLinkedIn" src="https://media.licdn.com/dms/image/v2/D4E16AQEc83cviMimgQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690304403162?e=1775692800&v=beta&t=b7euMg4wdrb7Ab__dFK0r9nSQC5uLfpsNMpVvMfPdcg" />
 
 
 <div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FFF7ED&background=000000&center=true&vCenter=true&width=1100&lines=Hello+world%2C+I'm+a+developer+%3C3" alt="Typing SVG" /></a></div>
